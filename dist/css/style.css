@@ -429,7 +429,7 @@ body {
 	text-align: center
 }
 .singleProjects .more-info {
-	background-color: #ff8b00!important !important;
+	background-color: #ff8b00!important;
 	color: #eee;
 	transition: all 1s ease-in;
 	-webkit-transition: all 1s ease-in;
@@ -439,7 +439,7 @@ body {
 .singleProjects .more-info:hover,
 .singleProjects .more-info:visited,
 .singleProjects .more-info:focus {
-	background-color: #ff8b00!important !important;
+	background-color: #ff8b00!important;
 	color: #eee;
 	border-color: #000;
 }
